@@ -1,0 +1,3 @@
+/media/ali/Things/cpp_dev/hello_world/build/CMakeFiles/my_program.dir
+/media/ali/Things/cpp_dev/hello_world/build/CMakeFiles/edit_cache.dir
+/media/ali/Things/cpp_dev/hello_world/build/CMakeFiles/rebuild_cache.dir
